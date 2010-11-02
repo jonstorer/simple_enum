@@ -1,0 +1,8 @@
+class: sample
+namespace: constants
+keys: 
+    - key
+    - value
+data: 
+    active: 1
+    inactive: 0
