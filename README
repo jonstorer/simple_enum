@@ -1,0 +1,17 @@
+= SimpleEnim
+
+== Overview
+SimpleEnum is a simple way to load constants into models
+
+== Installation
+SimpleEnum is a Rails 3 compatible engine. To install, just add it to your Gemfile :
+
+  gem 'simple_enum', :git => 'git@github.com:jonstorer/simple_enum.git'
+
+== Usage
+
+{{TODO}}
+
+== Testing
+
+{{TODO}}
